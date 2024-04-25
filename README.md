@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 24 April 2024 - To: 24 April 2024
-
-Total Time: 0 secs
-
+```txt
 No activity tracked
 ```
 
