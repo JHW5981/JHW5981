@@ -10,7 +10,7 @@
 </p>
 
 
-- 🔭 I’m currently working at [KnowBe4](https://knowbe4.com) as an SRE
+- 🔭 I’m currently studying in ShangHai Jiao Tong University
 - 💬 Ask me about **Python, Git and Matlab**
 - 📫 How to reach me: [@huawei](https://twitter.com/yoohuaff) on Twitter
 - ⚡ Studying Machine Learning and Deep Neural Networks
