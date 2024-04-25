@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/JHW5981">
-    <img src="./assets/background.jpg" style="width: 80%;">
+    <img src="./assets/background.jpg">
   </a>
 </div>
 
