@@ -1,19 +1,21 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://github.com/JHW5981">
+    <img src="./assets/background.jpg" style="width: 80%;">
+  </a>
+</div>
 
-<!--
-**JHW5981/JHW5981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👋 Hello! I'm Huawei.</h2>
+<p align="center">
+  <a href="https://blog.csdn.net/Edward__J?spm=1000.2115.3001.5343">Blog</a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at [KnowBe4](https://knowbe4.com) as an SRE
+- 💬 Ask me about **Python, Git and Matlab**
+- 📫 How to reach me: [@huawei](https://twitter.com/yoohuaff) on Twitter
+- ⚡ Studying Machine Learning and Deep Neural Networks
+
+-------
 
 <!--START_SECTION:waka-->
 
