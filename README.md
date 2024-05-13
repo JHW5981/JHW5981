@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently studying in Shanghai Jiao Tong University
-- 💬 Ask me about **Python, Git and Matlab**
+- 💬 Looking forward to **collaborating** with researchers who share similar interests
 - 📫 How to reach me: [@huawei](https://twitter.com/yoohuaff) on Twitter
 - ⚡ Studying Machine Learning and Deep Neural Networks
 
