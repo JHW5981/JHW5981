@@ -16,7 +16,7 @@
 - ⚡ Studying Machine Learning and Deep Neural Networks
 
 -------
-
+📊 **Quote Of The Day is:**
 <!--START_SECTION:waka-->
 
 ```txt
