@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2024 - To: 09 September 2024
+From: 03 September 2024 - To: 10 September 2024
 
 Python        5 hrs 8 mins    ███████████████████▒░░░░░   77.57 %
 PostScript    35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
