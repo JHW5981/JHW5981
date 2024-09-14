@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2024 - To: 12 September 2024
+From: 06 September 2024 - To: 13 September 2024
 
-Python        1 hr 58 mins    █████████████████▓░░░░░░░   70.74 %
-PostScript    22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-TeX           11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Markdown      7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Text          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Markdown   3 hrs 11 mins   ████████████████▒░░░░░░░░   64.79 %
+Python     1 hr 30 mins    ███████▓░░░░░░░░░░░░░░░░░   30.76 %
+Text       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+TeX        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
