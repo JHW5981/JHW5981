@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently studying in Shanghai Jiao Tong University
 - 💬 Looking forward to **collaborating** with researchers who share similar interests
-- 📫 How to reach me: [@huawei](https://twitter.com/yoohuaff) on Twitter
+- 📫 How to reach me: [@yoohuaff](https://twitter.com/yoohuaff) on Twitter
 - ⚡ Studying Machine Learning and Deep Neural Networks
 
 -------
